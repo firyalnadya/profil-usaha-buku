@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Event Buku</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<nav>
+<a href="index.html">Beranda</a>
+<a href="produk.html">Produk</a>
+<a href="bedah-buku.html">Bedah Buku</a>
+<a href="testimoni.html">Testimoni</a>
+<a href="tampil-testimoni.html">Testimoni Pembeli</a>
+<a href="event.html">Event</a>
+</nav>
+
+<h1>Event Toko Buku</h1>
+
+<section class="event">
+
+<div class="kartu-event">
+<h3>Bedah Buku Inspiratif</h3>
+<p><b>Tanggal:</b> 20 Mei 2026</p>
+<p><b>Tempat:</b> Aula Sekolah</p>
+<p>Acara diskusi dan bedah buku inspiratif untuk memotivasi pelajar.</p>
+</div>
+
+<div class="kartu-event">
+<h3>Lomba Resensi Buku</h3>
+<p><b>Tanggal:</b> 5 Juni 2026</p>
+<p><b>Tempat:</b> Perpustakaan Sekolah</p>
+<p>Kompetisi menulis resensi buku untuk siswa SMA.</p>
+</div>
+
+</section>
+
+</body>
+</html>
