@@ -134,4 +134,70 @@ body {
     
     form button:hover {
         background-color: #2980b9;
+
     }
+.kontak{
+    max-width: 700px;
+    margin: 30px auto;
+    background-color: #e7f0f2;
+    padding: 25px;
+    border-radius: 10px;
+    box-shadow: 0 3px 8px rgba(0,0,0,0.1);
+}
+
+.kontak h2{
+    text-align: center;
+    color: #0d2b52;
+}
+
+.kontak label{
+    font-weight: bold;
+    color: #1f3a4d;
+}
+
+.kontak input,
+.kontak textarea{
+    width: 100%;
+    padding: 8px;
+    margin-top: 5px;
+    margin-bottom: 15px;
+    border: 1px solid #b5c9cc;
+    border-radius: 5px;
+}
+
+.kontak button{
+    background-color: #0d2b52;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.kontak button:hover{
+    background-color: #1f4a7a;
+}
+
+.event{
+    display: grid;
+    grid-template-columns: repeat(auto-fit,minmax(250px,1fr));
+    gap: 20px;
+    padding: 30px;
+}
+
+.kartu-event{
+    background-color: #e7f0f2;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+    box-shadow: 0 3px 8px rgba(0,0,0,0.1);
+}
+
+.kartu-event h3{
+    color: #0d2b52;
+}
+
+.kartu-event p{
+    color: #2c3e50;
+    font-size: 14px;
+}
