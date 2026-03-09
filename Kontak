@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Kontak - Toko Buku Firyal Nadya</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<nav>
+<a href="index.html">Beranda</a>
+<a href="produk.html">Produk</a>
+<a href="bedah-buku.html">Bedah Buku</a>
+<a href="testimoni.html">Testimoni</a>
+<a href="tampil-testimoni.html">Testimoni Pembeli</a>
+<a href="kontak.html">Kontak</a>
+</nav>
+
+<h1>Kontak Kami</h1>
+
+<section class="kontak">
+<p>Jika Anda ingin bertanya atau memesan buku, silakan hubungi kami melalui informasi berikut:</p>
+
+<p><b>Nama Toko:</b> Toko Buku Firyal Nadya</p>
+<p><b>Email:</b> firyalnadya@gmail.com</p>
+<p><b>No. WhatsApp:</b> 081234567890</p>
+<p><b>Alamat:</b> Sidoarjo, Jawa Timur</p>
+
+<h3>Kirim Pesan</h3>
+
+<form>
+<label>Nama:</label><br>
+<input type="text" required><br><br>
+
+<label>Email:</label><br>
+<input type="email" required><br><br>
+
+<label>Pesan:</label><br>
+<textarea rows="4"></textarea><br><br>
+
+<button type="submit">Kirim</button>
+</form>
+
+</section>
+
+</body>
+</html>
