@@ -302,10 +302,15 @@ nav a.active{
 
 .banner h1{
   font-size: 40px;
+  color: white;
+  text-shadow: 2px 2px 6px rgba(0,0,0,0.5);
 }
 
 .banner p{
   font-size: 18px;
+  color: white;
+  text-align: center;
+  text-shadow: 1px 1px 4px rgba(0,0,0,0.4);
 }
 .kotak{
     background-color: white;
@@ -320,6 +325,7 @@ nav a.active{
 .kotak h2{
     color: #0d3b66;
 }
+
 
 
 
