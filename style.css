@@ -281,5 +281,24 @@ nav a.active{
     background-color: #0b3a55;
     color: white;
 }
+.banner{
+    background: linear-gradient(135deg, #1e3a8a, #3b82f6);
+    color: white;
+    text-align: center;
+    padding: 60px 20px;
+    border-radius: 15px;
+    margin: 20px;
+    box-shadow: 0 6px 15px rgba(0,0,0,0.2);
+}
+
+.banner h1{
+    font-size: 36px;
+    margin-bottom: 10px;
+}
+
+.banner p{
+    font-size: 18px;
+}
+
 
 
