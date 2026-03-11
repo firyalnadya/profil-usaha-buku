@@ -219,7 +219,7 @@ body {
     text-align: center;
 }
 
-/* TEXT HERO */
+
 .hero-text{
     color: white;
 }
@@ -249,6 +249,37 @@ nav a{
 
 nav a:hover{
     color: #cfe2ff;
+}
+nav{
+    background-color: #d6ded8;
+    padding: 15px;
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+}
+
+
+nav a{
+    text-decoration: none;
+    color: #333;
+    background-color: #f2f2f2;
+    padding: 10px 20px;
+    border-radius: 30px;
+    font-weight: bold;
+    box-shadow: 0 3px 6px rgba(0,0,0,0.2);
+    transition: 0.3s;
+}
+
+
+nav a:hover{
+    background-color: #0b4fa3;
+    color: white;
+}
+
+
+nav a.active{
+    background-color: #0b3a55;
+    color: white;
 }
 
 
