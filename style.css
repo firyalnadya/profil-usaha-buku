@@ -299,6 +299,19 @@ nav a.active{
 .banner p{
     font-size: 18px;
 }
+.kotak{
+    background-color: white;
+    max-width: 600px;
+    margin: 40px auto;
+    padding: 25px;
+    border-radius: 12px;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+    color: #0d3b66;
+}
+
+.kotak h2{
+    color: #0d3b66;
+}
 
 
 
